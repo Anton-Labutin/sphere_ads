@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>85AA01EC-2AD0-4F84-9999-6B593DEE8838</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>85AA01EC-2AD0-4F84-9999-6B593DEE8838.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Circus-amwnzywohlsheghfolioahgiwuvl</string>
+			<key>timeStartedRecording</key>
+			<real>638657848.70748699</real>
+			<key>timeStoppedRecording</key>
+			<real>638657849.99514794</real>
+			<key>title</key>
+			<string>Build target Circus</string>
+			<key>uniqueIdentifier</key>
+			<string>85AA01EC-2AD0-4F84-9999-6B593DEE8838</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

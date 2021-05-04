@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>E00C6AFF-FDA8-454C-8C81-96BFAC426529</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E00C6AFF-FDA8-454C-8C81-96BFAC426529.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Life</string>
+			<key>timeStartedRecording</key>
+			<real>641562081.59054303</real>
+			<key>timeStoppedRecording</key>
+			<real>641562089.85805595</real>
+			<key>title</key>
+			<string>Run Life</string>
+			<key>uniqueIdentifier</key>
+			<string>E00C6AFF-FDA8-454C-8C81-96BFAC426529</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

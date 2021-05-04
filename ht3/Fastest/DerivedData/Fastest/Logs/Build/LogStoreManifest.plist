@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>15005162-B478-443C-A6E3-FCBCCCAB8DE2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>15005162-B478-443C-A6E3-FCBCCCAB8DE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640619622.30540395</real>
+			<key>timeStoppedRecording</key>
+			<real>640619623.108307</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>15005162-B478-443C-A6E3-FCBCCCAB8DE2</string>
+		</dict>
+		<key>2CF76DEF-9B69-4F6D-82E1-5391395EE9D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CF76DEF-9B69-4F6D-82E1-5391395EE9D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640638608.24554205</real>
+			<key>timeStoppedRecording</key>
+			<real>640638608.93698204</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>2CF76DEF-9B69-4F6D-82E1-5391395EE9D9</string>
+		</dict>
+		<key>2CFD8189-8564-4BAD-8D79-953B4D4D4528</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CFD8189-8564-4BAD-8D79-953B4D4D4528.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640638540.61958206</real>
+			<key>timeStoppedRecording</key>
+			<real>640638541.39551306</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>2CFD8189-8564-4BAD-8D79-953B4D4D4528</string>
+		</dict>
+		<key>3F4309FF-89DC-4198-A7D0-646D84D192B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F4309FF-89DC-4198-A7D0-646D84D192B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640638593.34345698</real>
+			<key>timeStoppedRecording</key>
+			<real>640638594.098333</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>3F4309FF-89DC-4198-A7D0-646D84D192B2</string>
+		</dict>
+		<key>5307C338-FA0C-483E-A0BB-306A157DB3D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5307C338-FA0C-483E-A0BB-306A157DB3D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640618973.08504295</real>
+			<key>timeStoppedRecording</key>
+			<real>640618973.89759398</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>5307C338-FA0C-483E-A0BB-306A157DB3D7</string>
+		</dict>
+		<key>96B7F08E-D43C-4B9E-8626-6AF7EB2D4479</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96B7F08E-D43C-4B9E-8626-6AF7EB2D4479.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640556947.12660503</real>
+			<key>timeStoppedRecording</key>
+			<real>640556947.90684199</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>96B7F08E-D43C-4B9E-8626-6AF7EB2D4479</string>
+		</dict>
+		<key>97941F54-00D2-44BB-840E-F4D8FC5E6107</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97941F54-00D2-44BB-840E-F4D8FC5E6107.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640638422.32870305</real>
+			<key>timeStoppedRecording</key>
+			<real>640638423.20390499</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>97941F54-00D2-44BB-840E-F4D8FC5E6107</string>
+		</dict>
+		<key>AABD02F6-7E20-4D5E-9A42-49E11C0969FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AABD02F6-7E20-4D5E-9A42-49E11C0969FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640638575.38245296</real>
+			<key>timeStoppedRecording</key>
+			<real>640638576.15252101</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>AABD02F6-7E20-4D5E-9A42-49E11C0969FA</string>
+		</dict>
+		<key>BA1199DF-7D37-413F-AF4B-33CE0E946D7F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA1199DF-7D37-413F-AF4B-33CE0E946D7F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640619372.21535599</real>
+			<key>timeStoppedRecording</key>
+			<real>640619373.00938106</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>BA1199DF-7D37-413F-AF4B-33CE0E946D7F</string>
+		</dict>
+		<key>D8C18BA6-BE34-49BA-8394-D2EF69E8DC32</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8C18BA6-BE34-49BA-8394-D2EF69E8DC32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640619481.37994099</real>
+			<key>timeStoppedRecording</key>
+			<real>640619482.20563102</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>D8C18BA6-BE34-49BA-8394-D2EF69E8DC32</string>
+		</dict>
+		<key>E6F8E473-1F6B-4DD5-A1EB-ADCA385D52B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6F8E473-1F6B-4DD5-A1EB-ADCA385D52B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640619351.76529205</real>
+			<key>timeStoppedRecording</key>
+			<real>640619352.57103896</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>E6F8E473-1F6B-4DD5-A1EB-ADCA385D52B1</string>
+		</dict>
+		<key>FBA0B6F8-CD32-4533-9962-E3E6D6BE8F59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FBA0B6F8-CD32-4533-9962-E3E6D6BE8F59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Fastest</string>
+			<key>timeStartedRecording</key>
+			<real>640618954.47504997</real>
+			<key>timeStoppedRecording</key>
+			<real>640618957.20715201</real>
+			<key>title</key>
+			<string>Build Fastest</string>
+			<key>uniqueIdentifier</key>
+			<string>FBA0B6F8-CD32-4533-9962-E3E6D6BE8F59</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

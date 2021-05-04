@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03A814EB-44FC-464C-A29A-DDF9822E803F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>03A814EB-44FC-464C-A29A-DDF9822E803F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639514312.11306298</real>
+			<key>timeStoppedRecording</key>
+			<real>639514323.307549</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>03A814EB-44FC-464C-A29A-DDF9822E803F</string>
+		</dict>
+		<key>18E6157E-6548-4BE6-9EEB-057FBDAD2B4F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>18E6157E-6548-4BE6-9EEB-057FBDAD2B4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639512564.12989604</real>
+			<key>timeStoppedRecording</key>
+			<real>639512590.35979402</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>18E6157E-6548-4BE6-9EEB-057FBDAD2B4F</string>
+		</dict>
+		<key>18EBD572-1D66-4551-92D8-BAA0818ED7FE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>18EBD572-1D66-4551-92D8-BAA0818ED7FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639518734.388322</real>
+			<key>timeStoppedRecording</key>
+			<real>639518763.55753195</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>18EBD572-1D66-4551-92D8-BAA0818ED7FE</string>
+		</dict>
+		<key>3E9454C4-D142-445A-8636-D3A0DD3AC60F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E9454C4-D142-445A-8636-D3A0DD3AC60F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639518767.97107303</real>
+			<key>timeStoppedRecording</key>
+			<real>639518789.71083605</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>3E9454C4-D142-445A-8636-D3A0DD3AC60F</string>
+		</dict>
+		<key>4096EBC3-479D-46F4-8C24-35E4891D4645</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4096EBC3-479D-46F4-8C24-35E4891D4645.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639512865.49457705</real>
+			<key>timeStoppedRecording</key>
+			<real>639512891.24688399</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>4096EBC3-479D-46F4-8C24-35E4891D4645</string>
+		</dict>
+		<key>B08E56D7-B4F7-43C3-92C4-429088D98977</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B08E56D7-B4F7-43C3-92C4-429088D98977.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639557233.79733598</real>
+			<key>timeStoppedRecording</key>
+			<real>639557250.21485603</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>B08E56D7-B4F7-43C3-92C4-429088D98977</string>
+		</dict>
+		<key>E9259229-6579-40E1-B67D-21E530BF2EFC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E9259229-6579-40E1-B67D-21E530BF2EFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639512529.58460796</real>
+			<key>timeStoppedRecording</key>
+			<real>639512558.71025395</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>E9259229-6579-40E1-B67D-21E530BF2EFC</string>
+		</dict>
+		<key>ED18567E-639F-4903-97A6-DB5438D77C91</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ED18567E-639F-4903-97A6-DB5438D77C91.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639512795.79185796</real>
+			<key>timeStoppedRecording</key>
+			<real>639512813.42108095</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>ED18567E-639F-4903-97A6-DB5438D77C91</string>
+		</dict>
+		<key>ED50B30F-ED9E-45BA-8076-C02A2E88B79B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ED50B30F-ED9E-45BA-8076-C02A2E88B79B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Matrix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Matrix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Matrix</string>
+			<key>timeStartedRecording</key>
+			<real>639557312.61578703</real>
+			<key>timeStoppedRecording</key>
+			<real>639557325.76970804</real>
+			<key>title</key>
+			<string>Run Matrix</string>
+			<key>uniqueIdentifier</key>
+			<string>ED50B30F-ED9E-45BA-8076-C02A2E88B79B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>22577436-53EE-447D-82CA-FB2C98032A77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22577436-53EE-447D-82CA-FB2C98032A77.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640455176.28173196</real>
+			<key>timeStoppedRecording</key>
+			<real>640455177.13741195</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>22577436-53EE-447D-82CA-FB2C98032A77</string>
+		</dict>
+		<key>3342AA58-6DA5-4464-834F-FA9842F872D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3342AA58-6DA5-4464-834F-FA9842F872D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640455126.94760299</real>
+			<key>timeStoppedRecording</key>
+			<real>640455126.97357404</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>3342AA58-6DA5-4464-834F-FA9842F872D9</string>
+		</dict>
+		<key>3CAADE9C-7508-4535-9BC5-57D5B4A7850E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3CAADE9C-7508-4535-9BC5-57D5B4A7850E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640454939.15309703</real>
+			<key>timeStoppedRecording</key>
+			<real>640454939.85230196</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>3CAADE9C-7508-4535-9BC5-57D5B4A7850E</string>
+		</dict>
+		<key>489C6340-26BE-45C9-B3AD-6671D3A60DB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>489C6340-26BE-45C9-B3AD-6671D3A60DB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640269009.72809696</real>
+			<key>timeStoppedRecording</key>
+			<real>640269009.763309</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>489C6340-26BE-45C9-B3AD-6671D3A60DB5</string>
+		</dict>
+		<key>4A462358-79B3-4862-8782-2B22D18B6BDE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A462358-79B3-4862-8782-2B22D18B6BDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640454859.09035099</real>
+			<key>timeStoppedRecording</key>
+			<real>640454860.08583605</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>4A462358-79B3-4862-8782-2B22D18B6BDE</string>
+		</dict>
+		<key>611AD489-B408-4A58-BC84-4108FBC041EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>611AD489-B408-4A58-BC84-4108FBC041EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640455081.90255594</real>
+			<key>timeStoppedRecording</key>
+			<real>640455083.36976302</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>611AD489-B408-4A58-BC84-4108FBC041EF</string>
+		</dict>
+		<key>6882901F-0065-4944-A463-0F14E10B8ED0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6882901F-0065-4944-A463-0F14E10B8ED0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640269026.54618096</real>
+			<key>timeStoppedRecording</key>
+			<real>640269026.57209301</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>6882901F-0065-4944-A463-0F14E10B8ED0</string>
+		</dict>
+		<key>947B0086-8EBF-4E7E-916C-B7CB511D3218</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>947B0086-8EBF-4E7E-916C-B7CB511D3218.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640455171.57370102</real>
+			<key>timeStoppedRecording</key>
+			<real>640455171.921718</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>947B0086-8EBF-4E7E-916C-B7CB511D3218</string>
+		</dict>
+		<key>95335D75-32E4-4396-AB9C-8FA702423AFA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95335D75-32E4-4396-AB9C-8FA702423AFA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640268963.17123497</real>
+			<key>timeStoppedRecording</key>
+			<real>640268966.04784203</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>95335D75-32E4-4396-AB9C-8FA702423AFA</string>
+		</dict>
+		<key>B68ADB6D-D1B3-41E9-B3F3-A84F1B52E5BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B68ADB6D-D1B3-41E9-B3F3-A84F1B52E5BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640454890.66271198</real>
+			<key>timeStoppedRecording</key>
+			<real>640454891.29176295</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>B68ADB6D-D1B3-41E9-B3F3-A84F1B52E5BF</string>
+		</dict>
+		<key>C5FA46D5-7B57-44D3-B4BC-C72CD74E9664</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5FA46D5-7B57-44D3-B4BC-C72CD74E9664.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Symmetry project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Symmetry</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Symmetry</string>
+			<key>timeStartedRecording</key>
+			<real>640257910.50676095</real>
+			<key>timeStoppedRecording</key>
+			<real>640257910.54360795</real>
+			<key>title</key>
+			<string>Build Symmetry</string>
+			<key>uniqueIdentifier</key>
+			<string>C5FA46D5-7B57-44D3-B4BC-C72CD74E9664</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3ED13D02-1BB2-46A8-B9CE-1D94A6D310E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3ED13D02-1BB2-46A8-B9CE-1D94A6D310E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Brokers project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Brokers</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Brokers</string>
+			<key>timeStartedRecording</key>
+			<real>639677694.36514997</real>
+			<key>timeStoppedRecording</key>
+			<real>639677694.39632905</real>
+			<key>title</key>
+			<string>Build Brokers</string>
+			<key>uniqueIdentifier</key>
+			<string>3ED13D02-1BB2-46A8-B9CE-1D94A6D310E7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

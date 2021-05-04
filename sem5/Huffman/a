@@ -1,0 +1,70 @@
+#pragma once
+
+#include <vector>
+#include "huff_tree.h"
+#include "bitio.h"
+#include "pq.h"
+
+using namespace std;
+
+struct tree_great {
+    auto operator()(tree const *l, tree const *r) -> bool {
+        return l->count > r->count;
+    }
+};
+
+tree *build_tree(vector<int> const &counters) {
+    int size = 0;
+    for (auto c: counters) {
+        size += c != 0;
+    }
+    priority_queue<tree *, tree_great> pq(size);
+    for (int i = 0; i < counters.size(); i++) {
+        if (counters[i] == 0) continue;
+        auto n = new tree();
+        n->count = counters[i];
+        n->sym = i;
+        pq.insert(n);
+    }
+    while (pq.size() > 1) {
+        auto right = *pq.fetchMin(); pq.removeMin();
+        auto left  = *pq.fetchMin(); pq.removeMin();
+        tree *sum = new tree();
+        sum->count = left->count + right->count;
+        sum->left = left;
+        sum->right = right;
+        pq.insert(sum);
+    }
+    return nullptr;
+}
+
+void clear_tree(tree *) {
+    return;
+}
+
+void walk(tree *t, vector<string> &codes, string code) {
+    if (t->left != nullptr) walk(t->left, codes, code+"0");
+    if (t->right != nullptr) walk(t->right, codes, code+"1");
+    if (t->left == nullptr && t->right == nullptr) {
+        codes[t->sym] = code;
+    }
+}
+
+void out_tree(tree *t, bitio_out bout) {
+    vector<string> codes(257);
+    walk(t, codes, "");
+    for(int c = 0; c < 257; c++) {
+        if (codes[c].empty()) continue;
+        if (c < 32) printf("0x2f ", c);
+        else        printf("'%c' ", c);
+        printf("%s\n", codes[c].c_str());
+    }
+}
+
+tree *in_tree(bitio_in &bin) {
+    return nullptr;
+}
+
+void out_decoded(tree *t, bitio_in &bin, string const &name) {
+    return;
+}

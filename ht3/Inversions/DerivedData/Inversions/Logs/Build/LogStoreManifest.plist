@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>01B73B40-F8A2-4116-980D-66AA24BC6912</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01B73B40-F8A2-4116-980D-66AA24BC6912.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Inversions project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Inversions</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Inversions</string>
+			<key>timeStartedRecording</key>
+			<real>639561592.67026198</real>
+			<key>timeStoppedRecording</key>
+			<real>639561592.71022499</real>
+			<key>title</key>
+			<string>Build Inversions</string>
+			<key>uniqueIdentifier</key>
+			<string>01B73B40-F8A2-4116-980D-66AA24BC6912</string>
+		</dict>
+		<key>05F5E5B0-40AE-4207-9F03-7A92AF09C404</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05F5E5B0-40AE-4207-9F03-7A92AF09C404.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Inversions project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Inversions</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Inversions</string>
+			<key>timeStartedRecording</key>
+			<real>639560902.48825204</real>
+			<key>timeStoppedRecording</key>
+			<real>639560903.33755398</real>
+			<key>title</key>
+			<string>Build Inversions</string>
+			<key>uniqueIdentifier</key>
+			<string>05F5E5B0-40AE-4207-9F03-7A92AF09C404</string>
+		</dict>
+		<key>DCE8AED5-33F6-4FA1-9D20-B70839818126</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCE8AED5-33F6-4FA1-9D20-B70839818126.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Inversions project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Inversions</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Inversions</string>
+			<key>timeStartedRecording</key>
+			<real>639561596.59987497</real>
+			<key>timeStoppedRecording</key>
+			<real>639561596.62833703</real>
+			<key>title</key>
+			<string>Build Inversions</string>
+			<key>uniqueIdentifier</key>
+			<string>DCE8AED5-33F6-4FA1-9D20-B70839818126</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>04EA7D2A-E819-4FB6-A618-3892018B641B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>04EA7D2A-E819-4FB6-A618-3892018B641B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Frequences project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Frequences</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Frequences</string>
+			<key>timeStartedRecording</key>
+			<real>639506050.90285695</real>
+			<key>timeStoppedRecording</key>
+			<real>639506052.99824595</real>
+			<key>title</key>
+			<string>Run Frequences</string>
+			<key>uniqueIdentifier</key>
+			<string>04EA7D2A-E819-4FB6-A618-3892018B641B</string>
+		</dict>
+		<key>4B5A2BA1-47B4-4D8B-8D6D-7ADCD90451B9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4B5A2BA1-47B4-4D8B-8D6D-7ADCD90451B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Frequences project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Frequences</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Frequences</string>
+			<key>timeStartedRecording</key>
+			<real>639506021.06067598</real>
+			<key>timeStoppedRecording</key>
+			<real>639506028.85428405</real>
+			<key>title</key>
+			<string>Run Frequences</string>
+			<key>uniqueIdentifier</key>
+			<string>4B5A2BA1-47B4-4D8B-8D6D-7ADCD90451B9</string>
+		</dict>
+		<key>5E5DC8B0-ED67-41AD-9A70-85A442564360</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5E5DC8B0-ED67-41AD-9A70-85A442564360.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Frequences project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Frequences</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Frequences</string>
+			<key>timeStartedRecording</key>
+			<real>639506036.029073</real>
+			<key>timeStoppedRecording</key>
+			<real>639506038.18990397</real>
+			<key>title</key>
+			<string>Run Frequences</string>
+			<key>uniqueIdentifier</key>
+			<string>5E5DC8B0-ED67-41AD-9A70-85A442564360</string>
+		</dict>
+		<key>84ECC21F-0B68-4BDD-8E73-93ECDE7DDA1A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>84ECC21F-0B68-4BDD-8E73-93ECDE7DDA1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Frequences project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Frequences</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Frequences</string>
+			<key>timeStartedRecording</key>
+			<real>639506031.63780296</real>
+			<key>timeStoppedRecording</key>
+			<real>639506034.74231803</real>
+			<key>title</key>
+			<string>Run Frequences</string>
+			<key>uniqueIdentifier</key>
+			<string>84ECC21F-0B68-4BDD-8E73-93ECDE7DDA1A</string>
+		</dict>
+		<key>867AE570-6A55-46C8-B3FF-AD49492D5EFB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>867AE570-6A55-46C8-B3FF-AD49492D5EFB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Frequences project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Frequences</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Frequences</string>
+			<key>timeStartedRecording</key>
+			<real>639506116.40045702</real>
+			<key>timeStoppedRecording</key>
+			<real>639506145.582093</real>
+			<key>title</key>
+			<string>Run Frequences</string>
+			<key>uniqueIdentifier</key>
+			<string>867AE570-6A55-46C8-B3FF-AD49492D5EFB</string>
+		</dict>
+		<key>96C2F310-1099-452C-9264-A282621E796C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>96C2F310-1099-452C-9264-A282621E796C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Frequences project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Frequences</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Frequences</string>
+			<key>timeStartedRecording</key>
+			<real>639506146.835495</real>
+			<key>timeStoppedRecording</key>
+			<real>639506152.32846296</real>
+			<key>title</key>
+			<string>Run Frequences</string>
+			<key>uniqueIdentifier</key>
+			<string>96C2F310-1099-452C-9264-A282621E796C</string>
+		</dict>
+		<key>C748BD6E-6A45-4B75-8615-0440CE000130</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C748BD6E-6A45-4B75-8615-0440CE000130.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Frequences project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Frequences</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Frequences</string>
+			<key>timeStartedRecording</key>
+			<real>639505928.05978799</real>
+			<key>timeStoppedRecording</key>
+			<real>639505940.74723601</real>
+			<key>title</key>
+			<string>Run Frequences</string>
+			<key>uniqueIdentifier</key>
+			<string>C748BD6E-6A45-4B75-8615-0440CE000130</string>
+		</dict>
+		<key>F3B51D98-ABA5-4B67-A2A0-ADE8568C6031</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F3B51D98-ABA5-4B67-A2A0-ADE8568C6031.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Frequences project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Frequences</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Frequences</string>
+			<key>timeStartedRecording</key>
+			<real>639506040.02328503</real>
+			<key>timeStoppedRecording</key>
+			<real>639506042.45929098</real>
+			<key>title</key>
+			<string>Run Frequences</string>
+			<key>uniqueIdentifier</key>
+			<string>F3B51D98-ABA5-4B67-A2A0-ADE8568C6031</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

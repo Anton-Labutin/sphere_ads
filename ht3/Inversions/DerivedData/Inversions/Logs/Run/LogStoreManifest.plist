@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>16E86684-5CD9-46DA-AAAA-C4BAA886944E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>16E86684-5CD9-46DA-AAAA-C4BAA886944E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Inversions project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Inversions</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Inversions</string>
+			<key>timeStartedRecording</key>
+			<real>639560903.341272</real>
+			<key>timeStoppedRecording</key>
+			<real>639560944.31058502</real>
+			<key>title</key>
+			<string>Run Inversions</string>
+			<key>uniqueIdentifier</key>
+			<string>16E86684-5CD9-46DA-AAAA-C4BAA886944E</string>
+		</dict>
+		<key>24BBBABC-E071-42E5-BAAC-65800D500FFA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>24BBBABC-E071-42E5-BAAC-65800D500FFA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Inversions project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Inversions</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Inversions</string>
+			<key>timeStartedRecording</key>
+			<real>639561596.63080895</real>
+			<key>timeStoppedRecording</key>
+			<real>639561599.33341503</real>
+			<key>title</key>
+			<string>Run Inversions</string>
+			<key>uniqueIdentifier</key>
+			<string>24BBBABC-E071-42E5-BAAC-65800D500FFA</string>
+		</dict>
+		<key>F834FEA7-117A-4F0B-A6CB-BDDD6844E921</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F834FEA7-117A-4F0B-A6CB-BDDD6844E921.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Inversions project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Inversions</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Inversions</string>
+			<key>timeStartedRecording</key>
+			<real>639561592.71272099</real>
+			<key>timeStoppedRecording</key>
+			<real>639561596.10957503</real>
+			<key>title</key>
+			<string>Run Inversions</string>
+			<key>uniqueIdentifier</key>
+			<string>F834FEA7-117A-4F0B-A6CB-BDDD6844E921</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

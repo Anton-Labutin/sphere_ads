@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B545EB6D-DE74-4A66-8BFA-32DC9E3EE1BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B545EB6D-DE74-4A66-8BFA-32DC9E3EE1BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XORMAX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XORMAX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build XORMAX</string>
+			<key>timeStartedRecording</key>
+			<real>641224758.10809302</real>
+			<key>timeStoppedRecording</key>
+			<real>641224762.25263906</real>
+			<key>title</key>
+			<string>Build XORMAX</string>
+			<key>uniqueIdentifier</key>
+			<string>B545EB6D-DE74-4A66-8BFA-32DC9E3EE1BF</string>
+		</dict>
+		<key>CE434521-D522-4549-A0FF-44CF0A0EBA13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE434521-D522-4549-A0FF-44CF0A0EBA13.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XORMAX project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XORMAX</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build XORMAX</string>
+			<key>timeStartedRecording</key>
+			<real>641160578.24955106</real>
+			<key>timeStoppedRecording</key>
+			<real>641160578.97821403</real>
+			<key>title</key>
+			<string>Build XORMAX</string>
+			<key>uniqueIdentifier</key>
+			<string>CE434521-D522-4549-A0FF-44CF0A0EBA13</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

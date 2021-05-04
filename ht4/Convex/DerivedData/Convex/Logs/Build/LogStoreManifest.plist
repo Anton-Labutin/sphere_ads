@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>13E568E3-4D44-4124-A583-74081CB960D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13E568E3-4D44-4124-A583-74081CB960D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Convex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Convex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Convex</string>
+			<key>timeStartedRecording</key>
+			<real>640461901.36121595</real>
+			<key>timeStoppedRecording</key>
+			<real>640461902.21295202</real>
+			<key>title</key>
+			<string>Build Convex</string>
+			<key>uniqueIdentifier</key>
+			<string>13E568E3-4D44-4124-A583-74081CB960D0</string>
+		</dict>
+		<key>67248A26-DD09-423F-921E-02782A47D90E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67248A26-DD09-423F-921E-02782A47D90E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Convex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Convex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Convex</string>
+			<key>timeStartedRecording</key>
+			<real>640461851.08203697</real>
+			<key>timeStoppedRecording</key>
+			<real>640461852.01600599</real>
+			<key>title</key>
+			<string>Build Convex</string>
+			<key>uniqueIdentifier</key>
+			<string>67248A26-DD09-423F-921E-02782A47D90E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

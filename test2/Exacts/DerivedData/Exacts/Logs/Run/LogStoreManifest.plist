@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>490554B9-50F4-43D3-9614-1CFE458F15DF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>490554B9-50F4-43D3-9614-1CFE458F15DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Exacts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Exacts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Exacts</string>
+			<key>timeStartedRecording</key>
+			<real>640196082.89496696</real>
+			<key>timeStoppedRecording</key>
+			<real>640196117.06536806</real>
+			<key>title</key>
+			<string>Run Exacts</string>
+			<key>uniqueIdentifier</key>
+			<string>490554B9-50F4-43D3-9614-1CFE458F15DF</string>
+		</dict>
+		<key>5A1EE9BF-849C-41D5-9C81-2628844CD0EC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5A1EE9BF-849C-41D5-9C81-2628844CD0EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Exacts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Exacts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Exacts</string>
+			<key>timeStartedRecording</key>
+			<real>640195176.70710397</real>
+			<key>timeStoppedRecording</key>
+			<real>640195205.52130497</real>
+			<key>title</key>
+			<string>Run Exacts</string>
+			<key>uniqueIdentifier</key>
+			<string>5A1EE9BF-849C-41D5-9C81-2628844CD0EC</string>
+		</dict>
+		<key>5D9B2C2E-B0B7-4B58-98C8-7EB97FF20130</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5D9B2C2E-B0B7-4B58-98C8-7EB97FF20130.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Exacts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Exacts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Exacts</string>
+			<key>timeStartedRecording</key>
+			<real>640194683.65223396</real>
+			<key>timeStoppedRecording</key>
+			<real>640194717.571715</real>
+			<key>title</key>
+			<string>Run Exacts</string>
+			<key>uniqueIdentifier</key>
+			<string>5D9B2C2E-B0B7-4B58-98C8-7EB97FF20130</string>
+		</dict>
+		<key>64F73FD8-BC90-4877-94DB-D352DAC4BAFE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>64F73FD8-BC90-4877-94DB-D352DAC4BAFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Exacts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Exacts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Exacts</string>
+			<key>timeStartedRecording</key>
+			<real>640194976.26607203</real>
+			<key>timeStoppedRecording</key>
+			<real>640195010.67712605</real>
+			<key>title</key>
+			<string>Run Exacts</string>
+			<key>uniqueIdentifier</key>
+			<string>64F73FD8-BC90-4877-94DB-D352DAC4BAFE</string>
+		</dict>
+		<key>DA6E4A24-B021-4BD2-8CC0-BDE23E42060F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA6E4A24-B021-4BD2-8CC0-BDE23E42060F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Exacts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Exacts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Exacts</string>
+			<key>timeStartedRecording</key>
+			<real>640195307.69750905</real>
+			<key>timeStoppedRecording</key>
+			<real>640195310.00886405</real>
+			<key>title</key>
+			<string>Run Exacts</string>
+			<key>uniqueIdentifier</key>
+			<string>DA6E4A24-B021-4BD2-8CC0-BDE23E42060F</string>
+		</dict>
+		<key>FD575A8D-A374-465B-A125-FA79D54FE73A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FD575A8D-A374-465B-A125-FA79D54FE73A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Exacts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Exacts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Exacts</string>
+			<key>timeStartedRecording</key>
+			<real>640195321.19250298</real>
+			<key>timeStoppedRecording</key>
+			<real>640195348.02584302</real>
+			<key>title</key>
+			<string>Run Exacts</string>
+			<key>uniqueIdentifier</key>
+			<string>FD575A8D-A374-465B-A125-FA79D54FE73A</string>
+		</dict>
+		<key>FFFA376B-4E8B-4C6A-98E5-70D7934D6DE2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FFFA376B-4E8B-4C6A-98E5-70D7934D6DE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Exacts project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Exacts</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Exacts</string>
+			<key>timeStartedRecording</key>
+			<real>640195257.72353995</real>
+			<key>timeStoppedRecording</key>
+			<real>640195280.10119498</real>
+			<key>title</key>
+			<string>Run Exacts</string>
+			<key>uniqueIdentifier</key>
+			<string>FFFA376B-4E8B-4C6A-98E5-70D7934D6DE2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

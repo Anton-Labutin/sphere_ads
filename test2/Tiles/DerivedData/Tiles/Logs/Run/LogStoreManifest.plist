@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7102455B-0BC0-45D5-AAC7-F1A3070946C3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7102455B-0BC0-45D5-AAC7-F1A3070946C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tiles project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tiles</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Tiles</string>
+			<key>timeStartedRecording</key>
+			<real>640196858.51416194</real>
+			<key>timeStoppedRecording</key>
+			<real>640196885.879125</real>
+			<key>title</key>
+			<string>Run Tiles</string>
+			<key>uniqueIdentifier</key>
+			<string>7102455B-0BC0-45D5-AAC7-F1A3070946C3</string>
+		</dict>
+		<key>7D079365-F75F-4654-9151-9785213E7BB7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7D079365-F75F-4654-9151-9785213E7BB7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tiles project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tiles</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Tiles</string>
+			<key>timeStartedRecording</key>
+			<real>640196841.03067803</real>
+			<key>timeStoppedRecording</key>
+			<real>640196854.999259</real>
+			<key>title</key>
+			<string>Run Tiles</string>
+			<key>uniqueIdentifier</key>
+			<string>7D079365-F75F-4654-9151-9785213E7BB7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

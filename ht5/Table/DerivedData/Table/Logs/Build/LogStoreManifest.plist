@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6324D9CF-FE5A-4275-A107-171BBF1B6CDB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6324D9CF-FE5A-4275-A107-171BBF1B6CDB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Table project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Table</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Table</string>
+			<key>timeStartedRecording</key>
+			<real>640110545.83617795</real>
+			<key>timeStoppedRecording</key>
+			<real>640110548.77448106</real>
+			<key>title</key>
+			<string>Build Table</string>
+			<key>uniqueIdentifier</key>
+			<string>6324D9CF-FE5A-4275-A107-171BBF1B6CDB</string>
+		</dict>
+		<key>B5F884B9-27EB-40AA-BF17-BC956E9EB485</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5F884B9-27EB-40AA-BF17-BC956E9EB485.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Table project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Table</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Table</string>
+			<key>timeStartedRecording</key>
+			<real>640110574.99875498</real>
+			<key>timeStoppedRecording</key>
+			<real>640110576.49526501</real>
+			<key>title</key>
+			<string>Build Table</string>
+			<key>uniqueIdentifier</key>
+			<string>B5F884B9-27EB-40AA-BF17-BC956E9EB485</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

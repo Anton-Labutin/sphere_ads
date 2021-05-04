@@ -1,0 +1,51 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "2f8a7e8fbd86882674b6ba39c4555cd1290270e466a1134267e7b7d8060b041a"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/laa/prog/sphere/ads/Hometask 4/ht5/Life/DerivedData/Intermediates.noindex",
+      "buildProductsPath" : "/Users/laa/prog/sphere/ads/Hometask 4/ht5/Life/Build",
+      "derivedDataPath" : "/Users/laa/prog/sphere/ads/Hometask 4/ht5/Life/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/laa/prog/sphere/ads/Hometask 4/ht5/Life/DerivedData/Life/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/laa/prog/sphere/ads/Hometask 4/ht5/Life/DerivedData/Life/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/laa/prog/sphere/ads/Hometask 4/ht5/Life/DerivedData/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

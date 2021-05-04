@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>045A3B2F-4CCD-49EB-A18F-5D939F64C9C2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>045A3B2F-4CCD-49EB-A18F-5D939F64C9C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640198895.56029499</real>
+			<key>timeStoppedRecording</key>
+			<real>640198901.239838</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>045A3B2F-4CCD-49EB-A18F-5D939F64C9C2</string>
+		</dict>
+		<key>26F8D11E-6C05-4571-9737-68ACDD963D61</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>26F8D11E-6C05-4571-9737-68ACDD963D61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640198861.91872096</real>
+			<key>timeStoppedRecording</key>
+			<real>640198888.19969404</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>26F8D11E-6C05-4571-9737-68ACDD963D61</string>
+		</dict>
+		<key>38F0DCB2-F229-4001-AFD3-D21EB1DC0ED2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>38F0DCB2-F229-4001-AFD3-D21EB1DC0ED2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640201071.35417604</real>
+			<key>timeStoppedRecording</key>
+			<real>640201117.76136398</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>38F0DCB2-F229-4001-AFD3-D21EB1DC0ED2</string>
+		</dict>
+		<key>44D7514B-993A-4FA6-86F3-954DDB78C872</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>44D7514B-993A-4FA6-86F3-954DDB78C872.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640198902.24784696</real>
+			<key>timeStoppedRecording</key>
+			<real>640198911.95137405</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>44D7514B-993A-4FA6-86F3-954DDB78C872</string>
+		</dict>
+		<key>57662CEC-D372-4CF0-9304-8C44905657DC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>57662CEC-D372-4CF0-9304-8C44905657DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640198849.83628702</real>
+			<key>timeStoppedRecording</key>
+			<real>640198861.23090398</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>57662CEC-D372-4CF0-9304-8C44905657DC</string>
+		</dict>
+		<key>6D566F64-5D8F-4F3F-9612-04D54F720B59</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6D566F64-5D8F-4F3F-9612-04D54F720B59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640197955.34315395</real>
+			<key>timeStoppedRecording</key>
+			<real>640197961.89790404</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>6D566F64-5D8F-4F3F-9612-04D54F720B59</string>
+		</dict>
+		<key>6FF99B2B-7BFA-4E06-B741-A30F9217D235</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6FF99B2B-7BFA-4E06-B741-A30F9217D235.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640200730.63256705</real>
+			<key>timeStoppedRecording</key>
+			<real>640200757.88559902</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>6FF99B2B-7BFA-4E06-B741-A30F9217D235</string>
+		</dict>
+		<key>74D6EAFE-6D67-4FB3-845E-429C88354AC8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>74D6EAFE-6D67-4FB3-845E-429C88354AC8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640200970.056476</real>
+			<key>timeStoppedRecording</key>
+			<real>640200999.48624003</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>74D6EAFE-6D67-4FB3-845E-429C88354AC8</string>
+		</dict>
+		<key>9B8851DD-07A6-4C4F-A7A3-CDC9F96C4735</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9B8851DD-07A6-4C4F-A7A3-CDC9F96C4735.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640201119.09645498</real>
+			<key>timeStoppedRecording</key>
+			<real>640201145.052706</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>9B8851DD-07A6-4C4F-A7A3-CDC9F96C4735</string>
+		</dict>
+		<key>A19931C1-FB3D-412A-BA2E-C2D4F1DF062D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A19931C1-FB3D-412A-BA2E-C2D4F1DF062D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640198762.53391194</real>
+			<key>timeStoppedRecording</key>
+			<real>640198793.306445</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>A19931C1-FB3D-412A-BA2E-C2D4F1DF062D</string>
+		</dict>
+		<key>A9E56C9F-3456-4A93-A534-63B65FD4E928</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A9E56C9F-3456-4A93-A534-63B65FD4E928.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640197969.46424103</real>
+			<key>timeStoppedRecording</key>
+			<real>640197970.76670599</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>A9E56C9F-3456-4A93-A534-63B65FD4E928</string>
+		</dict>
+		<key>C2EAF364-9A5A-480E-88CA-3D8B7AEA4F45</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C2EAF364-9A5A-480E-88CA-3D8B7AEA4F45.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Anagrams project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Anagrams</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Anagrams</string>
+			<key>timeStartedRecording</key>
+			<real>640200674.83408201</real>
+			<key>timeStoppedRecording</key>
+			<real>640200729.12718797</real>
+			<key>title</key>
+			<string>Run Anagrams</string>
+			<key>uniqueIdentifier</key>
+			<string>C2EAF364-9A5A-480E-88CA-3D8B7AEA4F45</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

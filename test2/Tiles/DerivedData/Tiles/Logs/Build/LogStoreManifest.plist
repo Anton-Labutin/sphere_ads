@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A45DC79E-1D59-4260-A71C-7714E7538AF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A45DC79E-1D59-4260-A71C-7714E7538AF3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tiles project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tiles</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tiles</string>
+			<key>timeStartedRecording</key>
+			<real>640196858.48447001</real>
+			<key>timeStoppedRecording</key>
+			<real>640196858.51191902</real>
+			<key>title</key>
+			<string>Build Tiles</string>
+			<key>uniqueIdentifier</key>
+			<string>A45DC79E-1D59-4260-A71C-7714E7538AF3</string>
+		</dict>
+		<key>EF26BB93-EAFD-426F-A9CE-C88AFDCC5EB0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF26BB93-EAFD-426F-A9CE-C88AFDCC5EB0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tiles project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tiles</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tiles</string>
+			<key>timeStartedRecording</key>
+			<real>640196840.26278305</real>
+			<key>timeStoppedRecording</key>
+			<real>640196841.02739</real>
+			<key>title</key>
+			<string>Build Tiles</string>
+			<key>uniqueIdentifier</key>
+			<string>EF26BB93-EAFD-426F-A9CE-C88AFDCC5EB0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
